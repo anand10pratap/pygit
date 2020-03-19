@@ -1,2 +1,2 @@
 # pygit
-for learning 
+for learning purpose
